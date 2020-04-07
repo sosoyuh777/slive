@@ -15,6 +15,8 @@ SLive Russian-speaking Otaku Project
 
 🚩 Паблик проекта: https://vk.com/shikimarilive
 
+✨ Скачать юзерскрипт: https://greasyfork.org/ru/scripts/399871-shikimori-live-v2
+
 
 **Mini-extension of the Shikimori Live project.**
 **Returns the "Watch Online" button in the anime page on the Shikimori.one site.**
